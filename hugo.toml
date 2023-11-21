@@ -1,0 +1,5 @@
+baseURL = 'https://bradcug.uk/'
+languageCode = 'en-us'
+title = 'Bradford Cloud User Group'
+theme = 'PaperMod'
+
